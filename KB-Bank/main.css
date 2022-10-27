@@ -1,0 +1,12 @@
+.quickmenu {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+    
+}
+
+.quickmenu-1 {
+    display: flex;
+    background-color: antiquewhite;
+}
