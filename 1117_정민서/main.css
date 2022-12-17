@@ -8,47 +8,191 @@ h1 {
 
 .container {
     display: flex;
+     margin-left: 15px;
+    margin-top: 25px;
 }
 
 img {
-    width: 100px;
-    height: 90px;
+    width: 70px;
+    height: 60px;
     margin-bottom: 5px;
 }
 
-.dog {
-    width: 200px;
-    height: 170px;
-    background: #CCFFCC;
+.box1{
+    margin-left: 20px;
+    margin-top: 10px;
+    flex-direction: column;
+}
+
+.item1 {
+    width: 150px;
+    height: 125px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     font-size: large;
     font-weight: bold;
-    /*img의 부모요소에 css 적용*/
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 7px;
+    border: solid;
+    border-radius: 2ch;
+    border-color: #FF9999;
+}
+.box2 {
+    margin-left: 20px;
+    margin-top: 10px;
 }
 
-.turtle {
-    width: 200px;
-    height: 170px;
-    background: #CCFFCC;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    font-size: large;
-    font-weight: bold;   
-}
-
-.cat {
-    width: 200px;
-    height: 170px;
-    background: #CCFFCC;
+.item2 {
+    width: 150px;
+    height: 125px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     font-size: large;
     font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 7px;
+    border: solid;
+    border-radius: 2ch;
+    border-color: #FF9900;
+}
+
+.box3 {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.item3 {
+    width: 150px;
+    height: 125px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 7px;
+    border: solid;
+    border-radius: 2ch;
+    border-color: #FFCC66;
+}
+
+.box4 {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.item4 {
+    width: 150px;
+    height: 125px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 7px;
+    border: solid;
+    border-radius: 2ch;
+    border-color: #669900;
+}
+
+.box5 {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.item5 {
+    width: 150px;
+    height: 125px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 7px;
+    border: solid;
+    border-radius: 2ch;
+    border-color: #3366CC;
+   
+}
+
+
+.box6 {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.item6 {
+    width: 150px;
+    height: 125px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 7px;
+    border: solid;
+    border-radius: 2ch;
+    border-color: #9933CC;
+}
+
+.box7 {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.item7 {
+    width: 150px;
+    height: 125px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 7px;
+    border: solid;
+    border-radius: 2ch;
+    border-color: #CC6699;
+}
+
+
+.box8 {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.item8 {
+    width: 150px;
+    height: 125px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 7px;
+    border: solid;
+    border-radius: 2ch;
+    border-color: #006699;
 }
