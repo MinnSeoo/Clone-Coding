@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+}
+
+.gsm {
+    color: #CCCCFF;
+}
+
+.container {
+    display: flex;
+}
+
+img {
+    width: 100px;
+    height: 90px;
+    margin-bottom: 5px;
+}
+
+.dog {
+    width: 200px;
+    height: 170px;
+    background: #CCFFCC;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+    /*img의 부모요소에 css 적용*/
+}
+
+.turtle {
+    width: 200px;
+    height: 170px;
+    background: #CCFFCC;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;   
+}
+
+.cat {
+    width: 200px;
+    height: 170px;
+    background: #CCFFCC;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+}
