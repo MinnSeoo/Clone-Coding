@@ -1,0 +1,22 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    border-bottom: solid;
+    border-color:#99CCFF;
+    padding-bottom: 15px;
+}
+
+.gsm {
+    color: #CCCCFF;
+    
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.explain {
+    margin-top: 3cm;
+}   
