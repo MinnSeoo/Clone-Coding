@@ -37,3 +37,33 @@ a {
     margin: 10px 20px;
 }
 /*---- hedaer-----------------------*/
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.box1 {
+    display: inline-flex;
+    flex-direction: column;
+    border: 3px solid black;
+    width: 26%;
+    height:500px;
+}
+
+.box2 {
+    display: inline-flex;
+    flex-direction: column;
+    border: 3px solid blue;
+    width: 26%;
+    height:500px;
+}
+
+.box3 {
+    display: inline-flex;
+    flex-direction: column;
+    border: 3px solid green;
+    width: 26%;
+    height:500px;
+}
