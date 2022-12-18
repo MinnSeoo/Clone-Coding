@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    border-bottom: 2px solid #9999CC;
+    justify-content: space-between;
+}
+
+.gsm-hd {
+    color: #CCCCFF;
+    margin-left: 1.2cm;
+}
+
+.gsm-bk {
+    color: #99CC33;
+}
+
+.gsm {
+    color: #CCCCFF;
+}
+ul {
+    list-style: none;
+    margin-right: 2cm;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #999999;
+}
+
+.menu {
+    float: left;
+    margin: 10px 20px;
+}
+/*---- hedaer-----------------------*/
