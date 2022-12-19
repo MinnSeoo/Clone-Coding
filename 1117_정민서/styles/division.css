@@ -46,6 +46,19 @@ a {
 .box-epn{
     display: flex;
 }
+.list1{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.li-box{
+    padding: 0px 30px;
+}
+.li-list, .li-list3{
+    padding: 0px 30px;
+    
+}
 .box {
     display:flex;
     justify-content: center;
@@ -68,6 +81,10 @@ a {
 }
 
 .color-3 {
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     border: 2px solid green;
 }
 
@@ -89,7 +106,7 @@ a {
     text-align: center;
     margin-top: 20px;
     position: absolute;
-    bottom: 180px;
+    bottom: 550px;
 }
 
 .list1 {
@@ -99,17 +116,19 @@ a {
 }
 
 .list2 {
+    width: 200px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center ;
 
     
 }
 
 .list3 {
+    width: 200px;
     display: flex;
-    margin-top: 50px;
-    margin-left: 15%
+    justify-content: center;
+    align-items: center;
 }
 
 .li-box {
